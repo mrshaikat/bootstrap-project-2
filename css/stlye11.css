@@ -1,0 +1,310 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.backgrounding{
+    background-image: url(../img/app_bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+   
+    min-height: 650px;
+    width: 100%;
+    
+}
+
+.hero{
+     position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: black;
+    opacity: 0.9;
+}
+.nav-link{
+    text-decoration: none;
+    color: white;
+}
+.form-color{
+        background-color: #0069d9;
+    
+    width: 77%;
+    
+    box-shadow: beige;
+    border-radius: 12px;
+    margin-top: 60px;
+    position: relative;
+}
+.no-gutte{
+    
+}
+.overlay{
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background-color: #BDBDBD;
+    opacity: 0.8;
+}
+.iconsetting{
+    color: navy;
+   font-size: 50px;
+
+}
+#image-set{
+    height: 73%;
+   
+    
+    
+}
+#colorset{
+    color: #A4A4A4;
+}
+#colorset1{
+    color: #A4A4A4; 
+    line-height: 2;
+}
+#h-set{
+    font-weight: bold;
+    font-family: fantasy;
+}
+#h1-set{
+    font-size: 40px;
+    font-family: serif;
+}
+
+#icon{
+    margin-right: 50px;
+    padding-top: 40px;
+    font-size: 40;
+    
+}
+.iconnset{
+    font-size: 45px;
+    padding: 25px;
+    margin-top: 10px;
+}
+
+.no-gutter{
+    margin: 0;
+    padding: 0;
+}
+#bg-imagee{
+     background-image: url(../img/feature-bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    height: 300px;
+    width: 100%;
+    z-index: -10 ;
+}
+#bg-imagee-content{
+    position: absolute;
+    background-color: rgba(0,0,0,0.5);
+    top: 0;
+    bottom: 0;
+    height: 100%;
+    width: 100%;
+    z-index: -5;
+}
+
+
+.padding1{
+    padding-left: 80px;
+    font-size: 25px;
+}
+.cojds{
+    padding-left: 32px;
+    
+}
+.kkk{
+    margin-left: 6px;
+    margin-top: 10px;
+    display: block;
+}
+.image-setup{
+    height: 70px;
+    width: 70px;
+    border-radius: 100%;
+    
+    
+}
+.gbimageset{
+     background-image: url(../img/cta_bg.jpg);
+    background-size: cover;
+    background-position: center center;
+    background-repeat: no-repeat;
+    position: relative;
+    top: 0;
+    bottom: 0;
+    height: 70%;
+    width: 100%;
+}
+
+
+.mt-5, .my-5 {
+    margin-top: 3rem!important;
+}
+.ml-5, .mx-5 {
+    margin-left: 9rem!important;
+}
+.colorss{
+    color: #A4A4A4; 
+    font-size: 13px;
+}
+
+.ccc{
+    color: #A4A4A4; 
+    font-size: 12px;
+}
+.icon-11{
+    font-size: 30px;
+}
+
+.row{
+    margin-left: 0px;
+    margin-right: 0px;
+}
+.iconsetting1{
+    font-size: 33px;
+    color: gray;
+    
+}
+#h11-set{
+ font-size: 27px;
+    font-family:cursive;
+    font-style: oblique;
+    font-weight:bolder;
+}
+.font-sizings{
+    font-size: 27px;
+    font-family: sans-serif;
+}
+
+.dropdown-item:focus, .dropdown-item:hover {
+    
+    text-decoration: none;
+    background-color: #4e5c6b;
+}
+.bg-color{
+    background-color: #4e5c6b! important;
+}
+
+.form-control{
+    box-shadow: none;
+}
+.btn-outline-success{
+    border-color: #4e5c6b;
+    color: #4e5c6b! important;
+}
+.btn-outline-success:hover {
+    color: #fff! important;
+    background-color: #4e5c6b;
+    
+}
+.navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
+    color: cornflowerblue;
+}
+.font-style{
+    font-size: 18px;
+    font-family: quicksand;
+    
+    
+}
+.logo-font{
+    font-size: 24px;
+    font-family: fantasy;
+    font-weight: 200;
+    color: cornflowerblue! important;
+}
+.heading{
+    font-size: 42px;
+    font-family: quicksand;
+    line-height: normal;
+    letter-spacing: 2px;
+    color: white;
+}
+.paragraph{
+    font-size: 21px;
+    font-family: work sans;
+    line-height: 35px;
+    letter-spacing: 1px;
+    color: white;
+}
+.btnn{
+    font-size: 18px;
+    font-family: work sans;
+    color: white;
+}
+
+.heading-form{
+    font-size: 28px;
+    font-family: quicksand;
+    line-height: normal;
+    letter-spacing: normal;
+    color: white;
+}
+
+.paragraph-1{
+    font-size: 18px;
+    font-family: work sans;
+    line-height: 20px;
+    letter-spacing: 1px;
+    color: white;
+}
+
+.paragraph-normal{
+    font-size:18px;
+    font-family: work sans;
+    line-height: 29px;
+    letter-spacing: normal;
+}
+#paragraph-normal{
+    font-size:18px;
+    font-family: work sans;
+    line-height: 29px;
+    letter-spacing: normal;
+}
+.heading-normal{
+    
+    font-family: quicksand;
+    line-height: normal;
+    letter-spacing: normal;
+}
+
+.position-alignment{
+    position: fixed;
+    z-index: 11;
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
